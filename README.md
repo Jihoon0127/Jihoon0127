@@ -8,7 +8,7 @@
 
 [![JIHOOON's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoon0127&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jihoon0127/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jihoon0127)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 🔨 Once I've used 🔨
